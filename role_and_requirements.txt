@@ -1,0 +1,52 @@
+PLACAS PARA TESTES
+BTA7252
+DPE5086
+CNI1260
+NFJ3946
+ANA5119
+AKJ1397
+
+Companies that has done API to sale
+
+placa api - 0.80 reais por consulta. "maybe as a discount if a hight quantity"
+http://www.placaapi.com/Dashboard.aspx
+	I has had a count like a diegopmayer@gmail.com
+
+------------------------------------------------------------
+FIPE - FREE Account in real time there hasn't database
+http://fipeapi.appspot.com/
+
+tamanho, Exemplo:
+marcas = 3.5MB
+marca = 3.9MB
+veiculo = 753B
+------------------------------------------------------------
+http://infocarrosp.com.br/basic-car-info/1387508/
+return
+    Marca, modelo, ano e cor:
+------------------------------------------------------------
+https://www.qualveiculo.net/
+return
+    Marca, modelo, ano e cor:
+------------------------------------------------------------
+https://appweb1.antt.gov.br/scff/conLocalizaVeiculo.asp
+return
+    Marca, Modelo, ano, eixos, Chassi, Tipo, Dados e endereço do proprietário
+
+------------------------------------------------------------
+Portaria Nº 15/2016 do Denatran
+Art. 15. O DENATRAN poderá autorizar o acesso aos seus sistemas e subsistemas informatizados a entidades privadas cuja atividade esteja relacionada ao trânsito, transporte, fabricação e comercialização de veículos, segurança veicular, financiamento, seguros, registros, locação, comodato ou arrendamento de veículos não vinculados ao próprio financiamento e outras atividades necessárias ao funcionamento do trânsito e transporte, desde que a entidade comprove a necessidade de acesso para desempenho de suas atividades.
+
+portaria que institui o valor a ser cobrado pela informação
+https://infraestrutura.gov.br/images/Portarias-Denatran/2016/Portaria0552016.pdf
+alterações da portaria 55
+https://infraestrutura.gov.br/images/Portarias-Denatran/2016/Portaria2462016.pdf
+resumo:
+    consulta individual básica / detalhada: 0.54 / 0.96
+    banco de dados total:
+        lista de todos veiculos todos os dados carga anual = R$ 44.058,21
+        lista de todos veiculos todos os dados carga diaria= R$ 438.945,40
+-------------------------------------------------------------------------
+
+Estatística de fabricação e emplacamento por região, estado 
+http://www.fenabrave.org.br/portal/conteudo/emplacamentos
