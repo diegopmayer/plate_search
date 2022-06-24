@@ -12,7 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <resteasy.version>3.0.16.Final</resteasy.version>
+    <resteasy.version>3.14.0.Final</resteasy.version>
     <slf4j.version>1.7.18</slf4j.version>
     <java.version>1.7</java.version>
   </properties>
